@@ -1,1 +1,1 @@
-I'm a Software Systems - Computing Science student completing his BSc at Simon Fraser University. 
+I'm a Software Systems - Computing Science student completing my BSc at Simon Fraser University. 
